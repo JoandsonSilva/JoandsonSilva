@@ -19,3 +19,9 @@
 
 📫 **Me encontre aqui:**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joandson-silva/)  
+
+## 📖 Estudos Atuais  
+
+- 🔥 Aprendendo **Python** para desenvolvimento back-end  
+- 📚 Curso: "Python 3 Mundo 1 " Curso em Vídeo)  
+- 🎯 Objetivo: Construir uma base sólida na linguagem Python, desde o básico até o avançado  
